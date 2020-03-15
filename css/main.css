@@ -30,7 +30,7 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #533760;
+    border-top: 1px double #533760;
     font-size: .8em;
 }
 
