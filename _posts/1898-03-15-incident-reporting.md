@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Excerpts of my surface research, part 2"
+title: "Excerpts from my Surface Research (Part 2)"
 date: 1898-03-15
 ---
 
