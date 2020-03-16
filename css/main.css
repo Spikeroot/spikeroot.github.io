@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #5A2F2E;
+    color: #008080;
 }
 a:hover {
     text-decoration: underline;
@@ -23,6 +23,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Bahnschrift', 'Bahnschrift', 'Bahnschrift';
+    padding-top: 15px;
 }
 p {
     font-size: 2em;
