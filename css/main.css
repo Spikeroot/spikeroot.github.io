@@ -2,6 +2,7 @@ body {
     border-top: 25px solid #533760;
     margin: 60px auto;
     width: 80%;
+    background-color: #E9C989;
 }
 nav ul, footer ul {
     font-family:'Bahnschrift', 'Arial', 'Sans-Serif';
