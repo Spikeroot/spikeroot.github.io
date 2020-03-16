@@ -3,10 +3,10 @@ body {
     border-left: 1px solid #533760;
     border-right: 1px solid #533760;
     margin: 60px auto;
-    width: 80%;
+    width: 60%;
 }
 nav ul, footer ul {
-    font-family:'Serif', 'Times', 'Sans-Serif';
+    font-family:'Bahnschrift', 'Times', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,7 +24,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Courier New', 'Times', 'Serif';
+    font-family:'Bahnschrift', 'Times', 'Serif';
     padding-top: 15px;
     border: 1px solid #533760;
 }
@@ -36,7 +36,6 @@ p {
 }
 footer {
     border-top: 1px double #533760;
-    border-radius: 5px;
     font-size: .8em;
    
 }
