@@ -1,9 +1,7 @@
 body {
     border-top: 25px solid #533760;
-    border-left: 1px solid #533760;
-    border-right: 1px solid #533760;
     margin: 60px auto;
-    width: 60%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Bahnschrift', 'Times', 'Sans-Serif';
@@ -26,7 +24,6 @@ h1 {
     font-size: 3em;
     font-family:'Bahnschrift', 'Times', 'Serif';
     padding-top: 15px;
-    border: 1px solid #533760;
 }
 p {
     font-size: 2em;
