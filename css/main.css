@@ -33,6 +33,7 @@ p {
 }
 footer {
     border-top: 1px double #533760;
+    border-radius: 5px;
     font-size: .8em;
    
 }
