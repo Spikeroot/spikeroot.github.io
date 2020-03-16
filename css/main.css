@@ -2,7 +2,6 @@ body {
     border-top: 25px solid #533760;
     margin: 60px auto;
     width: 80%;
-    background-color: #E9C989;
 }
 nav ul, footer ul {
     font-family:'Bahnschrift', 'Arial', 'Sans-Serif';
@@ -25,18 +24,17 @@ h1 {
     font-size: 3em;
     font-family:'Bahnschrift', 'Bahnschrift', 'Bahnschrift';
     padding-top: 15px;
-    background-color: #E9C989;
 }
 p {
     font-size: 2em;
     line-height: 1.4em;
     color: #333;
-    background-color: #E9C989;
+    
 }
 footer {
     border-top: 1px double #533760;
     font-size: .8em;
-    background-color: #E9C989;
+   
 }
 
 ul.posts { 
